@@ -7,7 +7,7 @@
 #
 # Tips:
 # * Delete and replace the `pass` placeholder with your own code — it is just
-#   filler.
+#   filler. This is a test sentence.
 #
 # * You may be required to write for loops, use control flow, slice notation,
 #   and string methods.
